@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://madebybrown.github.io/csb-go1y78/static/css/main.895c32ce.chunk.css",
+    "main.js": "https://madebybrown.github.io/csb-go1y78/static/js/main.e9495271.chunk.js",
+    "main.js.map": "https://madebybrown.github.io/csb-go1y78/static/js/main.e9495271.chunk.js.map",
+    "runtime~main.js": "https://madebybrown.github.io/csb-go1y78/static/js/runtime~main.0c058594.js",
+    "runtime~main.js.map": "https://madebybrown.github.io/csb-go1y78/static/js/runtime~main.0c058594.js.map",
+    "static/js/2.4e288ace.chunk.js": "https://madebybrown.github.io/csb-go1y78/static/js/2.4e288ace.chunk.js",
+    "static/js/2.4e288ace.chunk.js.map": "https://madebybrown.github.io/csb-go1y78/static/js/2.4e288ace.chunk.js.map",
+    "index.html": "https://madebybrown.github.io/csb-go1y78/index.html",
+    "precache-manifest.9660c7638d6f14d7c31f4d75a225b111.js": "https://madebybrown.github.io/csb-go1y78/precache-manifest.9660c7638d6f14d7c31f4d75a225b111.js",
+    "service-worker.js": "https://madebybrown.github.io/csb-go1y78/service-worker.js",
+    "static/css/main.895c32ce.chunk.css.map": "https://madebybrown.github.io/csb-go1y78/static/css/main.895c32ce.chunk.css.map",
+    "static/media/Cables.PNG": "https://madebybrown.github.io/csb-go1y78/static/media/Cables.02c60ba1.PNG",
+    "static/media/Laser.PNG": "https://madebybrown.github.io/csb-go1y78/static/media/Laser.7d343757.PNG",
+    "static/media/Logo.png": "https://madebybrown.github.io/csb-go1y78/static/media/Logo.c15151b8.png",
+    "static/media/Machinery.PNG": "https://madebybrown.github.io/csb-go1y78/static/media/Machinery.14840a09.PNG",
+    "static/media/MotorColor.PNG": "https://madebybrown.github.io/csb-go1y78/static/media/MotorColor.43c3fcbe.PNG",
+    "static/media/Printing.PNG": "https://madebybrown.github.io/csb-go1y78/static/media/Printing.d0caa110.PNG",
+    "static/media/Rework.PNG": "https://madebybrown.github.io/csb-go1y78/static/media/Rework.38d8f91c.PNG"
+  }
+}
